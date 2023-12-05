@@ -1,0 +1,25 @@
+-1,-1,-1,-1,1,,
+1,-1,1,2,1,hello?,good.
+2,-1,1,2,1,how?,nice.
+3,-1,2,1,1,what?,good
+4,-1,1,2,1,howe olde you?,20
+5,-1,2,1,1,hi ahmad ?,hi ziad .
+6,-1,2,1,1,what the bist cpp or python ?,cpp is the bist.
+7,-1,2,1,1,what are you now?,
+8,-1,2,1,1,how color ?,
+9,-1,1,2,1,how pin?,
+10,-1,2,1,1,good or no ?,
+11,-1,1,2,1,tox ?,
+12,-1,1,2,1,fass ?,
+13,-1,1,2,1,que A ?,yes....
+14,-1,2,1,1,pom ?,
+15,-1,2,1,1,fefoo ?,
+16,-1,1,2,1,hooo ?,fss.
+17,-1,2,1,1,zopo ?,
+18,-1,1,2,1,kosoo ?,oh.
+19,-1,1,2,1,foooo ?,
+20,-1,2,1,1,roopp ?,roo.
+21,-1,1,2,1,prooo ?,good.
+22,-1,2,1,1,poug ?,
+23,-1,1,2,1,hiiiiiii ?,good.
+24,-1,2,1,1,is finshed ?,yes.
